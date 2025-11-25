@@ -1,7 +1,7 @@
 # 🧮 Calculator Application Using Method Overloading
 
-**Name:** Monishka Bajaj 
-**Roll No.:** 2401010161
+**Name:** Yashieta Sethi 
+**Roll No.:** 2401010187
 **Course Name:** Java Programming  
 **Programme:** B.Tech CSE CORE 
 **Session:** 2025-26
